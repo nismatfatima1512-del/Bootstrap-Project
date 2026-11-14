@@ -1,0 +1,25 @@
+body {
+  background-color: #ebf0fa;
+  overflow-x: hidden;
+}
+
+.hero-banner {
+  background-color: #2b308b;
+}
+
+.text-navy {
+  color: #2b308b;
+}
+
+.card-box {
+  background-color: #ffffff;
+  min-height: 120px;
+}
+
+.about-box {
+  background-color: #ffffff;
+}
+
+.contact-box {
+  background-color: #dbe2fd;
+}
