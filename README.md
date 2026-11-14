@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 Code Academy
+=======
+# Code Academy
+>>>>>>> ea5de339eb1c6179cb54c6957a702c19de46ba95
 
 Code Academy is a simple and responsive educational website created using HTML, CSS, and Bootstrap 5.3.3.
 
 The purpose of this project is to showcase different technology courses and provide basic information about an academy. I created this project to practice Bootstrap and improve my frontend development skills.
 
+<<<<<<< HEAD
 Features
+=======
+## Features
+>>>>>>> ea5de339eb1c6179cb54c6957a702c19de46ba95
 
 - A simple navigation bar with Home, Courses, About, and Contact sections.
 - A hero section with a welcome message and an Explore Courses button.
@@ -13,7 +21,11 @@ Features
 - A Contact section with email information.
 - A responsive layout for different screen sizes.
 
+<<<<<<< HEAD
 Courses
+=======
+## Courses
+>>>>>>> ea5de339eb1c6179cb54c6957a702c19de46ba95
 
 The website includes the following courses:
 
@@ -24,14 +36,42 @@ The website includes the following courses:
 - Cyber Security
 - Freelancing
 
+<<<<<<< HEAD
 Technologies Used
+=======
+## Technologies Used
+>>>>>>> ea5de339eb1c6179cb54c6957a702c19de46ba95
 
 - HTML5
 - CSS3
 - Bootstrap 5.3.3
 
+<<<<<<< HEAD
 What I Practiced
 
 While building this project, I practiced using Bootstrap containers, rows, columns, breakpoints, spacing utilities, typography, buttons, shadows, and other utility classes.
 
 I also worked on making the website responsive so that it can be viewed on mobile, tablet, and desktop screens.
+=======
+## What I Practiced
+
+While building this project, I practiced using Bootstrap containers, rows, columns, breakpoints, spacing utilities, typography, buttons, shadows, and other utility classes.
+
+I also worked on making the website responsive so that it can be viewed on mobile, tablet, and desktop screens.
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+
+## Project Structure
+
+```text
+Code-Academy/
+│
+├── index.html
+├── style.css
+└── README.md
+```
+>>>>>>> ea5de339eb1c6179cb54c6957a702c19de46ba95
